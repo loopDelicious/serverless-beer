@@ -15,3 +15,13 @@ Adjust config details in `serverless.yml` and lambda functions in `handler.js`
 Trigger a new deploy, and test new endpoints with Postman or cURL
 
     $ serverless deploy
+    
+    
+From tutorials:
+
+Part 1:
+
+https://www.netlify.com/blog/2016/09/15/serverless-jam---a-serverless-framework-tutorial/
+Part 2: 
+
+https://www.netlify.com/blog/2016/10/13/serverless-jam---a-serverless-framework-tutorial-part-2/
